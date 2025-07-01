@@ -45,7 +45,7 @@ This case study involved analyzing 1,465 Amazon product listings across various 
 
 - *Visualization:*
   - Created a comprehensive Excel dashboard with:
-    - Bar and pie charts
+    - pie charts and scattered chart
     - Slicers for filtering by category
     - Summary cards for key metrics
     - Top 5 product highlights
@@ -61,11 +61,10 @@ This case study involved analyzing 1,465 Amazon product listings across various 
 
 ## 📁 Files Included
 
-| File | Description |
 
-| Amazon_Review_Analysis.xlsx | Cleaned dataset, Pivot Tables, and Dashboard |
+| Amazon case Study | Cleaned dataset, Pivot Tables, and Dashboard |
 | dashboard_screenshot.png | Visual of the interactive dashboard |
-| top_products_chart.png | Chart of top 5 products by rating × rating count |
+| top_products_chart.png | Scattered Chart of top 5 products |
 | README.md | Project summary and documentation |
 
 
@@ -76,7 +75,7 @@ This case study involved analyzing 1,465 Amazon product listings across various 
 - Charting & dashboard creation
 - Data storytelling and presentation
 - Business insight development
-- Formula-driven data modeling (IF, COUNTIF, LEFT, SORT, etc.)
+- Formula-driven data modeling (IF, COUNTIF, Average)
 
 ##  What I Learned
 
@@ -86,7 +85,7 @@ This project sharpened my ability to:
 - Use Excel as a complete analysis and storytelling tool
 
 
-##  Project Previews
+##  Analysis
 
 ###  How does the discount level relate to customer rating?
 ![Screenshot (31)](https://github.com/user-attachments/assets/f9393153-312c-4d90-a894-42a78080cfaa)
@@ -95,3 +94,7 @@ This project sharpened my ability to:
 ###  Top 5 Products (Rating × Rating Count)  
 
 ![Screenshot (25)](https://github.com/user-attachments/assets/30de545a-c67e-4326-b253-fffbf2e5e12a)
+
+### Recommendation
+1. More marketing and running of ads
+2. Increase discounts and pair with limited time offer
