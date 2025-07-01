@@ -30,8 +30,9 @@ This case study involved analyzing 1,465 Amazon product listings across various 
 ##  Technical Approach
 
 - *Data Cleaning:*
-  - Analysed categories using TRIM Function.
-  - Normalized discount values and formatted numeric fields.
+- Data loading and inspection
+- Analysed categories using TRIM Function.
+- Normalized discount values and formatted numeric fields.
 
 - *Feature Engineering:*
   - Created custom KPI: rating_score = rating × rating_count
