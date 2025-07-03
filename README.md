@@ -51,7 +51,7 @@ This case study involved analyzing 1,465 Amazon product listings across various 
     - Top 5 product highlights
 
 
-## 📊 Key Insights
+## Key Insights
 
 1. What is the average discount percentage by product category? 0.476914676
 2. How many products are listed under each category? 450
@@ -59,7 +59,7 @@ This case study involved analyzing 1,465 Amazon product listings across various 
 4. Which products have the highest average ratings? tablets 
 5. What is the average actual price vs the discounted price by category? 8480.32
 
-## 📁 Files Included
+## Files Included
 
 
 | Amazon case Study | Cleaned dataset, Pivot Tables, and Dashboard |
